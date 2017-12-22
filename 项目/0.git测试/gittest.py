@@ -6,4 +6,3 @@ import os
 4
 5
 6
-fixbug1()
